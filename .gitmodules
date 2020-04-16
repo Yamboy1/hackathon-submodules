@@ -1,0 +1,6 @@
+[submodule "In-Touch-Backend"]
+	path = In-Touch-Backend
+	url = https://github.com/scorpionknifes/In-Touch-Backend
+[submodule "In-Touch-App"]
+	path = In-Touch-App
+	url = https://github.com/scorpionknifes/In-Touch-App
